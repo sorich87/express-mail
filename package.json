@@ -3,26 +3,22 @@
   "version": "0.0.1",
   "main": "lib/express-mail.js",
   "description": "Easy email delivery from Express apps",
-  "homepage": "http://sorich87.github.io/express-mail",
-  "bugs": "user/repo/issues",
+  "homepage": "http://github.com/sorich87/express-mail",
+  "bugs": "http://github.com/sorich87/express-mail/issues",
   "author": {
     "name": "Ulrich Sossou",
-    "email": "sorich87@gmail.com",
     "url": "http://ulrichsossou.com"
   },
   "repository": {
     "type": "git",
-    "url": "user/repo"
+    "url": "https://github.com/sorich87/express-mail.git"
   },
   "licenses": [
     {
       "type": "MIT"
     }
   ],
-  "files": [
-    ""
-  ],
-  "keywords": [],
+  "keywords": ["express", "email", "templates"],
   "dependencies": {
     "nodemailer": "~0.6.0",
     "juice2": "~0.5.0"
